@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quake Report</string>
+    <string name="near_the">Vicino</string>
+    <string name="no_earthquakes">Nessun Terremoto trovato.</string>
+    <string name="no_internet_connection">Connessione internet non disponibile.</string>
+    <string name="settings_menu_item">Impostazioni</string>
+    <string name="settings_title">Impostazioni Terremoti</string>
+    <string name="settings_order_by_most_recent_label">Più Recenti</string>
+    <string name="settings_order_by_magnitude_label">Manietudo</string>
+    <string name="settings_order_by_magnitude_value" translatable="false"></string>
+    <string name="settings_order_by_most_recent_value" translatable="false"></string>
+    <string name="settings_order_by_label">Ordina Per</string>
+    <string name="settings_min_magnitude_label">Manietudo Minimo</string>
+</resources>
